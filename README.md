@@ -41,17 +41,17 @@
 ---
 
 ## 🚧 Currently Working On  
-- Strengthening data engineering workflow  
-- Advanced Airflow DAGs  
-- Personal AI automation tools  
+- JANISA a 3D web interface
+- Unreal Engine
+- Personal AI automation tools 
 - More ETL & automation projects  
 
 ---
 
 ## 📚 Currently Learning  
-- dbt Advanced  
-- Docker Multi-Container Setup  
-- End-to-end Data Pipelines  
+- Unreal Engine
+- Machine Learning
+- Handling Data
 - NLP Deep Concepts  
 - Backend with Python  
 
