@@ -50,7 +50,7 @@
 
 ## 📚 Currently Learning  
 - Unreal Engine
-- Machine Learning
+- CUDA Programming
 - Handling Data
 - NLP Deep Concepts  
 - Backend with Python  
