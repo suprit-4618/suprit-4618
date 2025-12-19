@@ -1,3 +1,13 @@
+<!-- MULTI-LANGUAGE GREETING (SLOW & SMOOTH) -->
+<div align="center">
+
+![Greeting](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=2500&color=8BE9FD&center=true&vCenter=true&width=900&lines=ನಮಸ್ಕಾರ;வணக்கம்;నమస్కారం;നമസ്കാരം;Hello;Hola;Bonjour;Ciao;こんにちは;안녕하세요)
+
+</div>
+
+---
+
+
 <!-- HERO / INTRO -->
 <div align="center">
 
