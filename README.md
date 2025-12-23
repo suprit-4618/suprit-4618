@@ -88,18 +88,6 @@ My work spans **machine learning, data engineering, computer vision, and interac
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suprit-4618&show_icons=true&theme=radical&hide_border=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=suprit-4618&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suprit-4618&theme=github-dark&hide_border=true)
