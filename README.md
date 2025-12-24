@@ -45,27 +45,40 @@ I am an AI & Data Science engineering student focused on building **practical, s
 My work spans **machine learning, data engineering, computer vision, and interactive 3D systems**, with a strong interest in **gaming-grade simulation and intelligent interfaces**
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### 🧠 Languages
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql)
 
-### 🤖 AI / ML
+### 🤖 AI / ML & Data
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-0D1117?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0D1117?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0D1117?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0D1117?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data%20Science-0D1117?style=for-the-badge)
+![PySpark](https://img.shields.io/badge/PySpark-0D1117?style=for-the-badge&logo=apachespark)
+
+### 🌐 Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb)
+![NoSQL](https://img.shields.io/badge/NoSQL-0D1117?style=for-the-badge)
 
 ### ⚙️ Tools & Platforms
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql)
-![Airflow](https://img.shields.io/badge/Airflow-0D1117?style=for-the-badge&logo=apacheairflow)
+![Apache Airflow](https://img.shields.io/badge/Airflow-0D1117?style=for-the-badge&logo=apacheairflow)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0D1117?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel)
 
-### 🎮 Simulation & 3D
-![Unity](https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity)
+### 🎮 Simulation, 3D & Web Graphics
 ![Three.js](https://img.shields.io/badge/Three.js-0D1117?style=for-the-badge&logo=three.js)
+![WebGL](https://img.shields.io/badge/WebGL-0D1117?style=for-the-badge&logo=webgl)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0D1117?style=for-the-badge)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0D1117?style=for-the-badge&logo=unrealengine)
 
 ---
 
