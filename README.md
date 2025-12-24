@@ -49,6 +49,7 @@ My work spans **machine learning, data engineering, computer vision, and interac
 
 ### 🧠 Languages
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)
 ![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql)
 
 ### 🤖 AI / ML & Data
@@ -59,7 +60,6 @@ My work spans **machine learning, data engineering, computer vision, and interac
 
 ### 🌐 Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask)
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql)
