@@ -51,12 +51,13 @@ My work spans **machine learning, data engineering, computer vision, and interac
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)
 ![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql)
+![PySpark](https://img.shields.io/badge/PySpark-0D1117?style=for-the-badge&logo=apachespark)
 
 ### 🤖 AI / ML & Data
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-0D1117?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0D1117?style=for-the-badge)
 ![Data Science](https://img.shields.io/badge/Data%20Science-0D1117?style=for-the-badge)
-![PySpark](https://img.shields.io/badge/PySpark-0D1117?style=for-the-badge&logo=apachespark)
+
 
 ### 🌐 Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi)
