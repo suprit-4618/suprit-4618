@@ -131,6 +131,5 @@ My work spans **machine learning, data engineering, computer vision, and interac
 
 <div align="center">
 
-⭐ *If you like clean engineering, practical AI, and systems that actually work — feel free to explore.*
 
 </div>
