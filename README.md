@@ -29,16 +29,6 @@
 
 ---
 
-<!-- PORTFOLIO LINK -->
-<div align="center">
-
-🔗 **Interactive Portfolio (Full Experience)**  
-👉 https://vercel.com/suprit-4618s-projects.vercel.app
-
-</div>
-
----
-
 ## 🧩 About Me
 
 I am an AI & Data Science engineering student focused on building **practical, system-level AI applications** rather than isolated models.  
