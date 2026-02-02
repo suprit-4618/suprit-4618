@@ -15,19 +15,7 @@
 
 </div>
 
----
 
-<!-- QUICK IDENTITY -->
-<div align="center">
-
-🎓 AI & Data Science
-🧠 Interests: AI/ML • Simulation • Game Tech • Cyber & Defense  
-🚀 Projects: JANISA • AVA (AgriVerseAI) • ETL Pipelines  
-🌏 India
-
-</div>
-
----
 
 ## 🧩 About Me
 
