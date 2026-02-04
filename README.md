@@ -19,8 +19,7 @@
 
 ## 🧩 About Me
 
-I am an AI & Data Science engineering student focused on building **practical, system-level AI applications** rather than isolated models.  
-My work spans **machine learning, data engineering, computer vision, and interactive 3D systems**, with a strong interest in **gaming-grade simulation and intelligent interfaces**
+You can see my name in below the profile, if you scroll down you can look at the tech i work with. Thats enough as of it now. **👋**
 
 ---
 ## 🛠️ Tech Stack
