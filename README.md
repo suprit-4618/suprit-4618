@@ -19,7 +19,7 @@
 
 ## 🧩 About Me
 
-You can see my name in below the profile, if you scroll down you can look at the tech i work with. Thats enough as of it now. **👋**
+You can see my name below the profile, if you scroll down you can look at the tech i work with. Thats enough as of now. **👋**
 
 ---
 ## 🛠️ Tech Stack
