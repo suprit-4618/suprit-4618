@@ -1,7 +1,7 @@
 <!-- 3D HEADER & VISITORS -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi,%20I%27m%20Suprit&fontSize=70&animation=fadeIn&desc=AI%20%26%20Data%20Science%20Engineer&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi,%20I%20am%20Suprit&fontSize=70&animation=fadeIn&desc=AI%20and%20Data%20Science%20Engineer&descSize=20)
 
 <br/>
 
