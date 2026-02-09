@@ -1,7 +1,9 @@
 <!-- 3D HEADER & VISITORS -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi,%20I%20am%20Suprit&fontSize=70&animation=fadeIn&fontAlignY=40&desc=AI%20and%20Data%20Science%20Engineer&descSize=20&descAlignY=65)
+![Greeting](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=%E0%B2%A8%E0%B2%AE%E0%B2%B8%E0%B3%8D%E0%B2%95%E0%B2%BE%E0%B2%B0;%E0%AE%B5%E0%AE%A3%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D;%E0%B0%A8%E0%B0%AE%E0%B0%B8%E0%B1%8D%E0%B0%95%E0%B0%BE%E0%B0%B0%E0%B0%82;%E0%B4%A8%E0%B4%AE%E0%B4%B8%E0%B5%8D%E0%B4%95%E0%B4%BE%E0%B4%B0%E0%B4%82;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87)
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=300&section=header&text=Hi,%20I%20am%20Suprit&fontSize=70&animation=fadeIn&fontAlignY=40&desc=AI%20and%20Data%20Science%20Engineer&descSize=20&descAlignY=65)
 
 <br/>
 
