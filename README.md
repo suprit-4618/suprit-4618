@@ -1,17 +1,11 @@
-<!-- MULTI-LANGUAGE GREETING (SLOW & SMOOTH) -->
+<!-- 3D HEADER & VISITORS -->
 <div align="center">
 
-![Greeting](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=2500&color=8BE9FD&center=true&vCenter=true&width=900&lines=ನಮಸ್ಕಾರ;வணக்கம்;నమస్కారం;നമസ്കാരം;Hello;Hola;Bonjour;Ciao;こんにちは;안녕하세요)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20I'm%20Suprit%20Lenkennavar&fontSize=70&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=51&descSize=20)
 
-</div>
+<br/>
 
----
-
-
-<!-- HERO / INTRO -->
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Suprit+Lenkennavar;AI+%26+Data+Science+Engineer;Building+Intelligent+Systems;Exploring+AI+%2B+3D+%2B+Simulation)
+![Profile Views](https://komarev.com/ghpvc/?username=suprit-4618&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
@@ -82,6 +76,8 @@ You can see my name below the profile, if you scroll down you can look at the te
 ## 📈 Contribution Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suprit-4618&theme=github-dark&hide_border=true)
+
+![Snake animation](https://github.com/suprit-4618/suprit-4618/blob/output/snake.svg?raw=true)
 
 ---
 
