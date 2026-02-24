@@ -22,6 +22,7 @@ Feel free to explore, if you scroll down you can look at the tech i work with. T
 
 ### 🧠 Languages
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)
 ![PySpark](https://img.shields.io/badge/PySpark-0D1117?style=for-the-badge&logo=apachespark)
 
@@ -53,6 +54,20 @@ Feel free to explore, if you scroll down you can look at the tech i work with. T
 ![WebGL](https://img.shields.io/badge/WebGL-0D1117?style=for-the-badge&logo=webgl)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0D1117?style=for-the-badge)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0D1117?style=for-the-badge&logo=unrealengine)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=suprit-4618&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suprit-4618&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=suprit-4618&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
