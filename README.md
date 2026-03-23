@@ -36,7 +36,7 @@ Feel free to explore, if you scroll down you can look at the tech i work with. T
 ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi)
 
 ### 🗄️ Databases
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb)
 ![NoSQL](https://img.shields.io/badge/NoSQL-0D1117?style=for-the-badge)
