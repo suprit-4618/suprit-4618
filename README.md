@@ -26,10 +26,12 @@ Feel free to explore, if you scroll down you can look at the tech i work with. T
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)
 ![PySpark](https://img.shields.io/badge/PySpark-0D1117?style=for-the-badge&logo=apachespark)
 
-### 🤖 AI / ML & Data Science
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-0D1117?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0D1117?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/Data%20Science-0D1117?style=for-the-badge)
+### 🤖 AI / ML Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0D1117?style=for-the-badge&logo=huggingface&logoColor=white)
 
 
 ### 🌐 Backend & APIs
