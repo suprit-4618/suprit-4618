@@ -26,7 +26,7 @@ Feel free to explore, if you scroll down you can look at the tech i work with. T
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)
 ![PySpark](https://img.shields.io/badge/PySpark-0D1117?style=for-the-badge&logo=apachespark)
 
-### 🤖 AI / ML & Data
+### 🤖 AI / ML & Data Science
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-0D1117?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0D1117?style=for-the-badge)
 ![Data Science](https://img.shields.io/badge/Data%20Science-0D1117?style=for-the-badge)
@@ -39,7 +39,7 @@ Feel free to explore, if you scroll down you can look at the tech i work with. T
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb)
-![NoSQL](https://img.shields.io/badge/NoSQL-0D1117?style=for-the-badge)
+
 
 ### ⚙️ Tools & Platforms
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker)
@@ -115,7 +115,7 @@ Feel free to explore, if you scroll down you can look at the tech i work with. T
 
 ---
 
-## 🛠️ More Experience
+## 🛠️ projects
 
 ### 🔹 JANISA — AI-Driven 3D Visualization System
 - **Interactive 3D**: Gesture-controlled object interaction via MediaPipe.
