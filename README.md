@@ -71,14 +71,14 @@ Feel free to explore, if you scroll down you can look at the tech i work with. T
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
 ### 🔹 [FRIDAY — Personal AI Desktop Agent](https://github.com/suprit-4618/FRIDAY)
 *Voice-controlled HUD assistant that executes real system actions.*
 
-**[🚀 Web Demo](https://friday-ai.vercel.app) | [📂 Repository](https://github.com/suprit-4618/FRIDAY)**
+**[📂 Repository](https://github.com/suprit-4618/FRIDAY)**
 
 </div>
 
