@@ -20,7 +20,7 @@
 
 ### 🤖 AI / ML Frameworks
 ![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0D1117?style=for-the-badge&logo=huggingface&logoColor=white)
@@ -39,14 +39,14 @@
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker)
 ![Apache Airflow](https://img.shields.io/badge/Airflow-0D1117?style=for-the-badge&logo=apacheairflow)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0D1117?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0D1117?style=for-the-badge&logo=githubactions)
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux)
 ![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel)
 
 ### 🎮 Simulation, 3D & Web Graphics
-![Three.js](https://img.shields.io/badge/Three.js-0D1117?style=for-the-badge&logo=three.js)
+![Three.js](https://img.shields.io/badge/Three.js-0D1117?style=for-the-badge&logo=threedotjs)
 ![WebGL](https://img.shields.io/badge/WebGL-0D1117?style=for-the-badge&logo=webgl)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0D1117?style=for-the-badge)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0D1117?style=for-the-badge&logo=mediapipe)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0D1117?style=for-the-badge&logo=unrealengine)
 
 ---
@@ -129,7 +129,7 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suprit-4618&theme=github-dark&hide_border=true)
 
-![Snake animation](https://github.com/suprit-4618/suprit-4618/blob/output/snake.svg?raw=true)
+![Snake animation](https://raw.githubusercontent.com/suprit-4618/suprit-4618/output/snake.svg)
 
 ---
 
