@@ -10,14 +10,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=suprit-4618&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
-
-
-
-## 🧩 About Me
-
-Feel free to explore, if you scroll down you can look at the tech i work with. Thats enough as of now. **👋**
-
----
 ## 🛠️ Tech Stack
 
 ### 🧠 Languages
