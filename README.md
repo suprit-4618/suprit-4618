@@ -61,7 +61,11 @@ Feel free to explore, if you scroll down you can look at the tech i work with. T
 
 <div align="center">
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suprit-4618&theme=tokyonight" />
+![Total Commits](https://img.shields.io/github/commits-per-year/suprit-4618?style=for-the-badge&logo=github&label=TOTAL%20COMMITS&color=7aa2f7&labelColor=1a1b26)
+![Total Stars](https://img.shields.io/github/stars/suprit-4618?style=for-the-badge&logo=github&label=TOTAL%20STARS&color=7aa2f7&labelColor=1a1b26)
+![Followers](https://img.shields.io/github/followers/suprit-4618?style=for-the-badge&logo=github&label=FOLLOWERS&color=7aa2f7&labelColor=1a1b26)
+
+<br/>
 
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suprit-4618&theme=tokyonight" />
 
