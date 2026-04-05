@@ -61,11 +61,11 @@ Feel free to explore, if you scroll down you can look at the tech i work with. T
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=suprit-4618&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suprit-4618&theme=tokyonight" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suprit-4618&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suprit-4618&theme=tokyonight" />
 
-<img height="170" src="https://streak-stats.demolab.com?user=suprit-4618&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://streak-stats.demolab.com?user=suprit-4618&theme=tokyonight&hide_border=true" />
 
 </div>
 
