@@ -73,22 +73,60 @@ Feel free to explore, if you scroll down you can look at the tech i work with. T
 
 ## 🚀 Featured Projects
 
-### 🔹 JANISA — AI-Driven 3D Visualization System
-- Gesture-controlled 3D object interaction
-- AI-assisted object analysis & command execution
-- Web-based, real-time visualization pipeline
+<div align="center">
 
-### 🔹 AVA (AgriVerseAI)
-- Multilingual AI assistant for farmers
-- Crop disease detection (CNN-based)
-- Market price comparison & direct selling platform
+### 🔹 [FRIDAY — Personal AI Desktop Agent](https://github.com/suprit-4618/FRIDAY)
+*Voice-controlled HUD assistant that executes real system actions.*
 
-### 🔹 Data Engineering Pipelines
-- Weather ETL (Airflow + PostgreSQL + Docker)
-- Crypto Price ETL (Airflow + dbt + PostgreSQL)
-- Production-style orchestration & monitoring
+**[🚀 Web Demo](https://friday-ai.vercel.app) | [📂 Repository](https://github.com/suprit-4618/FRIDAY)**
+
+</div>
+
+- **Voice-Activated**: Uses Picovoice Porcupine for real-time wake-word detection.
+- **LLM Brain**: Powered by Groq/Gemini for ultra-fast reasoning and natural conversation.
+- **HUD Interface**: A futuristic Glassmorphism HUD built with Electron + React.
+- **System Control**: WhatsApp integration, app automation, and cross-platform terminal control.
+
+<br/>
+
+<div align="center">
+
+### 🔹 [Semantic Search — Agentic RAG Engine](https://github.com/suprit-4618/Semantic-Search)
+*High-performance search engine with intelligent multi-step reasoning.*
+
+</div>
+
+- **Vector Search**: High-performance semantic retrieval using Sentence-Transformers and Qdrant/Pinecone.
+- **Agentic Workflow**: Intelligent query decomposition and multi-step reasoning for deep data analysis.
+- **Local LLM**: Privacy-focused execution using Ollama (Llama-3/Mistral) for offline search capabilities.
+
+<br/>
+
+<div align="center">
+
+### 🔹 [Data Engineering Pipelines — Crypto & Weather ETL](https://github.com/suprit-4618/Data-Engineering-Pipelines)
+*Production-grade orchestration for large-scale data ingestion and transformation.*
+
+</div>
+
+- **Orchestration**: Automated workflows using Apache Airflow for robust data ingestion.
+- **Transformation**: Data modeling and validation with dbt (Data Build Tool) on PostgreSQL.
+- **Infrastructure**: Containerized deployment with Docker for scalable and portable pipelines.
 
 ---
+
+## 🛠️ More Experience
+
+### 🔹 JANISA — AI-Driven 3D Visualization System
+- **Interactive 3D**: Gesture-controlled object interaction via MediaPipe.
+- **AI Analysis**: Real-time object analysis and command execution using Gemini.
+
+### 🔹 AVA (AgriVerseAI)
+- **Farming Assistant**: CNN-based crop disease detection with multilingual support.
+- **Market Price Comparison**: Automated market analysis for direct selling platform.
+
+<br/>
+
 
 ## 📈 Contribution Activity
 
