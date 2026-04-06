@@ -70,13 +70,16 @@
 
 ## Featured Projects
 
-<div align="center">
-
 ### 🔹 [FRIDAY — Personal AI Desktop Agent](https://github.com/suprit-4618/FRIDAY)
+<div align="center">
+<a href="https://github.com/suprit-4618/FRIDAY">
+  <img src="assets/friday_banner.png" width="1000" alt="FRIDAY AI Banner">
+</a>
+<br/>
 *Voice-controlled HUD assistant that executes real system actions.*
-
-**[📂 Repository](https://github.com/suprit-4618/FRIDAY)**
-
+<br/>
+<br/>
+<b>[📂 Repository](https://github.com/suprit-4618/FRIDAY)</b>
 </div>
 
 - **Voice-Activated**: Uses Picovoice Porcupine for real-time wake-word detection.
