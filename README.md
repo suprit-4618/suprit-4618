@@ -5,6 +5,9 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=300&section=header&text=Hi,%20I%20am%20Suprit&fontSize=70&animation=fadeIn&fontAlignY=40&desc=AI%20and%20Data%20Science%20Engineer&descSize=20&descAlignY=65)
 
+[![Portfolio](https://img.shields.io/badge/Explore%20My%20Portfolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=white)](https://suprit-l.vercel.app/)
+
+
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=suprit-4618&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
@@ -70,16 +73,13 @@
 
 ## Featured Projects
 
-### 🔹 [FRIDAY — Personal AI Desktop Agent](https://github.com/suprit-4618/FRIDAY)
 <div align="center">
-<a href="https://github.com/suprit-4618/FRIDAY">
-  <img src="assets/friday_banner.png" width="1000" alt="FRIDAY AI Banner">
-</a>
-<br/>
+
+### 🔹 [FRIDAY — Personal AI Desktop Agent](https://github.com/suprit-4618/FRIDAY)
 *Voice-controlled HUD assistant that executes real system actions.*
-<br/>
-<br/>
-<b>[📂 Repository](https://github.com/suprit-4618/FRIDAY)</b>
+
+**[📂 Repository](https://github.com/suprit-4618/FRIDAY)**
+
 </div>
 
 - **Voice-Activated**: Uses Picovoice Porcupine for real-time wake-word detection.
@@ -150,6 +150,7 @@
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel)](https://suprit-l.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/suprit-k-l)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail)](mailto:supritkl49@gmail.com)
 
