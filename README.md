@@ -13,7 +13,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=suprit-4618&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
-## 🛠️ Tech Stack
+
+### 🛠️ Tech Stack
 
 ### 🧠 Languages
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python)
