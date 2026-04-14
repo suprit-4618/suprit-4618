@@ -30,7 +30,7 @@
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0D1117?style=for-the-badge&logo=huggingface&logoColor=white)
 
 
-### 🌐 Backend & APIs
+### 🌐 Backend & API's
 ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi)
 
 ### 🗄️ Databases
