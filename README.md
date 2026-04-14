@@ -14,15 +14,15 @@
 
 </div>
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
-### 🧠 Languages
+###  Languages
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)
 ![PySpark](https://img.shields.io/badge/PySpark-0D1117?style=for-the-badge&logo=apachespark)
 
-### 🤖 AI / ML Frameworks
+###  AI / ML Frameworks
 ![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=white)
@@ -30,16 +30,16 @@
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0D1117?style=for-the-badge&logo=huggingface&logoColor=white)
 
 
-### 🌐 Backend & API's
+###  Backend & API's
 ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi)
 
-### 🗄️ Databases
+###  Databases
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb)
 
 
-### ⚙️ Tools & Platforms
+###  Tools & Platforms
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker)
 ![Apache Airflow](https://img.shields.io/badge/Airflow-0D1117?style=for-the-badge&logo=apacheairflow)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git)
