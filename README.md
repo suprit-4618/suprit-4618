@@ -47,7 +47,7 @@
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux)
 ![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel)
 
-### 🎮 Simulation, 3D & Web Graphics
+###  Simulation, 3D & Web Graphics
 ![Three.js](https://img.shields.io/badge/Three.js-0D1117?style=for-the-badge&logo=threedotjs)
 ![WebGL](https://img.shields.io/badge/WebGL-0D1117?style=for-the-badge&logo=webgl)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0D1117?style=for-the-badge&logo=mediapipe)
@@ -55,7 +55,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -116,7 +116,7 @@
 
 ---
 
-## 🛠️ projects
+##  projects
 
 ### 🔹 JANISA — AI-Driven 3D Visualization System
 - **Interactive 3D**: Gesture-controlled object interaction via MediaPipe.
@@ -129,7 +129,7 @@
 <br/>
 
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suprit-4618&theme=github-dark&hide_border=true)
 
@@ -137,7 +137,7 @@
 
 ---
 
-## 📚 Learning & Exposure
+##  Learning & Exposure
 
 - Kaggle (datasets, competitions, notebooks)
 - AWS AI/ML Learning Plan
@@ -147,7 +147,7 @@
 
 ---
 
-## 🤝 Connect
+##  CONNECT
 
 <div align="center">
 
