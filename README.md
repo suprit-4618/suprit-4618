@@ -79,7 +79,7 @@
 ### 🔹 [FRIDAY — Personal AI Desktop Agent](https://github.com/suprit-4618/FRIDAY)
 *Voice-controlled HUD assistant that executes real system actions.*
 
-**[📂 Repository](https://github.com/suprit-4618/FRIDAY)**
+**[ Repository](https://github.com/suprit-4618/FRIDAY)**
 
 </div>
 
