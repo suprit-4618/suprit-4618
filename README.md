@@ -5,7 +5,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=300&section=header&text=Hi,%20I%20am%20Suprit&fontSize=70&animation=fadeIn&fontAlignY=40&desc=AI%20and%20Data%20Science%20Engineer&descSize=20&descAlignY=65)
 
-[![Portfolio](https://img.shields.io/badge/Explore%20My%20Portfolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=white)](https://suprit-l.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Explore%20My%20PortFolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=white)](https://suprit-l.vercel.app/)
 
 
 <br/>
