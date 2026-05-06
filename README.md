@@ -76,22 +76,6 @@
 
 <div align="center">
 
-### 🔹 [FRIDAY — Personal AI Desktop Agent](https://github.com/suprit-4618/FRIDAY)
-*Voice-controlled HUD assistant that executes real system actions.*
-
-**[ Repository](https://github.com/suprit-4618/FRIDAY)**
-
-</div>
-
-- **Voice-Activated**: Uses Picovoice Porcupine for real-time wake-word detection.
-- **LLM Brain**: Powered by Groq/Gemini for ultra-fast reasoning and natural conversation.
-- **HUD Interface**: A futuristic Glassmorphism HUD built with Electron + React.
-- **System Control**: WhatsApp integration, app automation, and cross-platform terminal control.
-
-<br/>
-
-<div align="center">
-
 ### 🔹 [Semantic Search — Agentic RAG Engine](https://github.com/suprit-4618/Semantic-Search)
 *High-performance search engine with intelligent multi-step reasoning.*
 
@@ -100,6 +84,19 @@
 - **Vector Search**: High-performance semantic retrieval using Sentence-Transformers and Qdrant/Pinecone.
 - **Agentic Workflow**: Intelligent query decomposition and multi-step reasoning for deep data analysis.
 - **Local LLM**: Privacy-focused execution using Ollama (Llama-3/Mistral) for offline search capabilities.
+
+<br/>
+
+<div align="center">
+
+### 🔹 [AI Job Scout — Intelligent Career Agent](https://github.com/suprit-4618/AI-Job-Scout)
+*Automated job sourcing, matching, and application tailored by AI.*
+
+</div>
+
+- **Automated Scraping**: Continuously monitors LinkedIn, Indeed, and Glassdoor for new postings.
+- **Resume Matching**: Uses LLMs to score job descriptions against your skills and experience.
+- **Cover Letter Gen**: Automatically generates personalized cover letters tailored to each job.
 
 <br/>
 
@@ -118,14 +115,31 @@
 
 <div align="center">
 
-### 🔹 [AI Job Scout — Intelligent Career Agent](https://github.com/suprit-4618/AI-Job-Scout)
-*Automated job sourcing, matching, and application tailored by AI.*
+### 🔹 [FRIDAY — Personal AI Desktop Agent](https://github.com/suprit-4618/FRIDAY)
+*Voice-controlled HUD assistant that executes real system actions.*
+
+**[ Repository](https://github.com/suprit-4618/FRIDAY)**
 
 </div>
 
-- **Automated Scraping**: Continuously monitors LinkedIn, Indeed, and Glassdoor for new postings.
-- **Resume Matching**: Uses LLMs to score job descriptions against your skills and experience.
-- **Cover Letter Gen**: Automatically generates personalized cover letters tailored to each job.
+- **Voice-Activated**: Uses Picovoice Porcupine for real-time wake-word detection.
+- **LLM Brain**: Powered by Groq/Gemini for ultra-fast reasoning and natural conversation.
+- **HUD Interface**: A futuristic Glassmorphism HUD built with Electron + React.
+- **System Control**: WhatsApp integration, app automation, and cross-platform terminal control.
+
+<br/>
+
+<div align="center">
+
+### 🔹 [100+ Python Projects — Pro Bootcamp Mastery](https://github.com/suprit-4618)
+*A comprehensive collection of 100+ projects built during Dr. Angela Yu's 100 Days of Code Python Pro Bootcamp.*
+
+</div>
+
+- **Core Fundamentals**: Deep dive into Python scripting, Object-Oriented Programming (OOP), and Data Structures & Algorithms (DSA).
+- **Web & APIs**: Extensive experience building RESTful APIs, web scraping (BeautifulSoup, Selenium), and backend web development.
+- **Data Science & GUIs**: Data analysis with Pandas/NumPy, and desktop GUI applications using Tkinter and Turtle.
+- **Automation**: Developing bots, email automations, and game development to solve real-world problems.
 
 ---
 
