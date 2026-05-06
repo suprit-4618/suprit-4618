@@ -114,6 +114,19 @@
 - **Transformation**: Data modeling and validation with dbt (Data Build Tool) on PostgreSQL.
 - **Infrastructure**: Containerized deployment with Docker for scalable and portable pipelines.
 
+<br/>
+
+<div align="center">
+
+### 🔹 [AI Job Scout — Intelligent Career Agent](https://github.com/suprit-4618/AI-Job-Scout)
+*Automated job sourcing, matching, and application tailored by AI.*
+
+</div>
+
+- **Automated Scraping**: Continuously monitors LinkedIn, Indeed, and Glassdoor for new postings.
+- **Resume Matching**: Uses LLMs to score job descriptions against your skills and experience.
+- **Cover Letter Gen**: Automatically generates personalized cover letters tailored to each job.
+
 ---
 
 ##  projects
