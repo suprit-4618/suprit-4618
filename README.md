@@ -137,7 +137,7 @@
 </div>
 
 - **Core Fundamentals**: Deep dive into Python scripting, Object-Oriented Programming (OOP), and Data Structures & Algorithms (DSA).
-- **Web & APIs**: Extensive experience building RESTful APIs, web scraping (BeautifulSoup, Selenium), and backend web development.
+- **Web & API's**: Extensive experience building RESTful APIs, web scraping (BeautifulSoup, Selenium), and backend web development.
 - **Data Science & GUIs**: Data analysis with Pandas/NumPy, and desktop GUI applications using Tkinter and Turtle.
 - **Automation**: Developing bots, email automations, and game development to solve real-world problems.
 
