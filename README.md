@@ -32,6 +32,7 @@
 
 ###  Backend & API's
 ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask)
 
 ###  Databases
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql)
