@@ -1,7 +1,7 @@
 <!-- 3D HEADER & VISITORS -->
 <div align="center">
 
-![Greeting](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=%E0%B2%A8%E0%B2%AE%E0%B2%B8%E0%B3%8D%E0%B2%95%E0%B2%BE%E0%B2%B0;%E0%AE%B5%E0%AE%A3%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D;%E0%B0%A8%E0%B0%AE%E0%B0%B8%E0%B1%8D%E0%B0%95%E0%B0%BE%E0%B0%B0%E0%B0%82;%E0%B4%A8%E0%B4%AE%E0%B4%B8%E0%B5%8D%E0%B4%95%E0%B4%BE%E0%B4%B0%E0%B4%82;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87)
+![Greeting](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=I+build+AI+that+ships;95.4%+accuracy.+35ms+latency.+Real+impact;Open+to+remote+—+any+timezone)
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=300&section=header&text=Hi,%20I%20am%20Suprit&fontSize=70&animation=fadeIn&fontAlignY=40&desc=AI%20and%20Data%20Science%20Engineer&descSize=20&descAlignY=65)
 
@@ -73,105 +73,116 @@
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
-### 🔹 [Semantic Search — Agentic RAG Engine](https://github.com/suprit-4618/Semantic-Search)
-*High-performance search engine with intelligent multi-step reasoning.*
+### AgriVerseAI — AI Platform That Actually Works in the Field
+
+*Built for farmers with low-end phones and real crop problems*
 
 </div>
 
-- **Vector Search**: High-performance semantic retrieval using Sentence-Transformers and Qdrant/Pinecone.
-- **Agentic Workflow**: Intelligent query decomposition and multi-step reasoning for deep data analysis.
-- **Local LLM**: Privacy-focused execution using Ollama (Llama-3/Mistral) for offline search capabilities.
+- **81,000+** images → **95.4%** accuracy across **38** crop diseases
+- **35ms** inference latency on mobile-first architecture
+- **60%** faster training via **CUDA** GPU acceleration
+- Bilingual NLP chatbot + weather forecast + direct crop sales in one platform
+- Fine-tuned **MobileNetV2** using Transfer Learning
 
 <br/>
 
 <div align="center">
 
-### 🔹 [AI Job Scout — Intelligent Career Agent](https://github.com/suprit-4618/AI-Job-Scout)
-*Automated job sourcing, matching, and application tailored by AI.*
+### AI Job Scout — Autonomous Career Agent
+
+*Built the agent that should've found me a job 😅*
 
 </div>
 
-- **Automated Scraping**: Continuously monitors LinkedIn, Indeed, and Glassdoor for new postings.
-- **Resume Matching**: Uses LLMs to score job descriptions against your skills and experience.
-- **Cover Letter Gen**: Automatically generates personalized cover letters tailored to each job.
+- **24/7** scraping pipeline via **LangChain** + **BeautifulSoup**
+- **LLaMA-3** resume-to-job semantic matching at sub-second speed
+- **80%** less manual prep time via auto cover letters + skill gap analysis
+- Real-time **Telegram** alerts + **Firebase** + fully **Dockerized**
 
 <br/>
 
 <div align="center">
 
-### 🔹 [Data Engineering Pipelines — Crypto & Weather ETL](https://github.com/suprit-4618/Data-Engineering-Pipelines)
-*Production-grade orchestration for large-scale data ingestion and transformation.*
+### Semantic Search — Meaning-Aware Retrieval Engine
+
+*40% more accurate than keyword search*
 
 </div>
 
-- **Orchestration**: Automated workflows using Apache Airflow for robust data ingestion.
-- **Transformation**: Data modeling and validation with dbt (Data Build Tool) on PostgreSQL.
-- **Infrastructure**: Containerized deployment with Docker for scalable and portable pipelines.
+- **HuggingFace** **all-MiniLM-L6-v2** → **384-d** embeddings
+- **95%** precision via **Cosine Similarity** retrieval
+- **<50ms** latency, fully **Dockerized** with **REST APIs**
+- **Endee** Vector DB for scalable data management
 
 <br/>
 
 <div align="center">
 
-### 🔹 [FRIDAY — Personal AI Desktop Agent](https://github.com/suprit-4618/FRIDAY)
-*Voice-controlled HUD assistant that executes real system actions.*
+### JANISA — Gesture + AI + 3D in the Browser
 
-**[ Repository](https://github.com/suprit-4618/FRIDAY)**
+*Control 3D objects with your hands. In real time. No controller.*
 
 </div>
 
-- **Voice-Activated**: Uses Picovoice Porcupine for real-time wake-word detection.
-- **LLM Brain**: Powered by Groq/Gemini for ultra-fast reasoning and natural conversation.
-- **HUD Interface**: A futuristic Glassmorphism HUD built with Electron + React.
-- **System Control**: WhatsApp integration, app automation, and cross-platform terminal control.
+- **MediaPipe** hand tracking → real-time **3D** object control
+- **Gemini-powered** object analysis and voice command execution
+- **WebGL** + **Three.js** rendering pipeline, fully web-based
 
 <br/>
 
 <div align="center">
 
-### 🔹 [100+ Python Projects — Pro Bootcamp Mastery](https://github.com/suprit-4618)
-*A comprehensive collection of 100+ projects built during Dr. Angela Yu's 100 Days of Code Python Pro Bootcamp.*
+### FRIDAY — Personal AI Desktop Agent
+
+*Your own Jarvis. Actually works.*
 
 </div>
 
-- **Core Fundamentals**: Deep dive into Python scripting, Object-Oriented Programming (OOP), and Data Structures & Algorithms (DSA).
-- **Web & API's**: Extensive experience building RESTful APIs, web scraping (BeautifulSoup, Selenium), and backend web development.
-- **Data Science & GUIs**: Data analysis with Pandas/NumPy, and desktop GUI applications using Tkinter and Turtle.
-- **Automation**: Developing bots, email automations, and game development to solve real-world problems.
+- **Picovoice** wake-word detection, always listening
+- **Groq/Gemini** brain for ultra-fast reasoning
+- Glassmorphism HUD built with **Electron** + **React**
+- **WhatsApp** integration + app automation + terminal control
+
+<br/>
+
+<div align="center">
+
+### Data Engineering Pipelines — Crypto & Weather ETL
+
+*Production-style orchestration, not tutorial projects*
+
+</div>
+
+- **Airflow** + **dbt** + **PostgreSQL** + **Docker**
+- Weather **ETL** and Crypto **ETL** both fully containerized
+
+<br/>
 
 ---
 
-##  projects
+## 🔒 Private Projects
+> These exist. The repos are private. 
+> The results are real.
 
-### 🔹 JANISA — AI-Driven 3D Visualization System
-- **Interactive 3D**: Gesture-controlled object interaction via MediaPipe.
-- **AI Analysis**: Real-time object analysis and command execution using Gemini.
-
-### 🔹 AVA (AgriVerseAI)
-- **Farming Assistant**: CNN-based crop disease detection with multilingual support.
-- **Market Price Comparison**: Automated market analysis for direct selling platform.
+| Project | What it does | Numbers |
+|--------|-------------|---------|
+| AgriVerseAI | Full-stack AI farming platform | **95.4%** accuracy, **35ms** latency |
+| JANISA | Gesture-controlled 3D AI system | Real-time, web-based, **Gemini-powered** |
 
 <br/>
 
+---
 
 ##  Contribution Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suprit-4618&theme=github-dark&hide_border=true)
 
 ![Snake animation](https://raw.githubusercontent.com/suprit-4618/suprit-4618/output/snake.svg)
-
----
-
-##  Learning & Exposure
-
-- Kaggle (datasets, competitions, notebooks)
-- AWS AI/ML Learning Plan
-- HackerRank (Python, SQL, Software Engineer Intern)
-- Unreal Engine (open-world prototype)
-- Google AI Studio • Vercel • Replit
 
 ---
 
@@ -189,5 +200,8 @@
 
 <div align="center">
 
+**Open to remote roles globally — timezone is not a problem**
+
+*Let's build something that actually matters*
 
 </div>
