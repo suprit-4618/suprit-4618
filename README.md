@@ -20,6 +20,7 @@
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs)
 ![PySpark](https://img.shields.io/badge/PySpark-0D1117?style=for-the-badge&logo=apachespark)
 
 ###  AI / ML Frameworks
@@ -47,6 +48,8 @@
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0D1117?style=for-the-badge&logo=githubactions)
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux)
 ![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel)
+![n8n](https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n)
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman)
 
 ###  Simulation, 3D & Web Graphics
 ![Three.js](https://img.shields.io/badge/Three.js-0D1117?style=for-the-badge&logo=threedotjs)
