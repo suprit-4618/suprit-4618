@@ -14,16 +14,16 @@
 
 </div>
 
-###  Tech Stack
+### Tech Stack
 
-###  Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs)
 ![PySpark](https://img.shields.io/badge/PySpark-0D1117?style=for-the-badge&logo=apachespark)
 
-###  AI / ML Frameworks
+### AI / ML Frameworks
 ![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=white)
@@ -31,17 +31,17 @@
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0D1117?style=for-the-badge&logo=huggingface&logoColor=white)
 
 
-###  Backend & API's
+### Backend & API's
 ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask)
 
-###  Databases
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb)
 
 
-###  Tools & Platforms
+### Tools & Platforms
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker)
 ![Apache Airflow](https://img.shields.io/badge/Airflow-0D1117?style=for-the-badge&logo=apacheairflow)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git)
@@ -51,7 +51,7 @@
 ![n8n](https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n)
 ![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman)
 
-###  Simulation, 3D & Web Graphics
+### Simulation, 3D & Web Graphics
 ![Three.js](https://img.shields.io/badge/Three.js-0D1117?style=for-the-badge&logo=threedotjs)
 ![WebGL](https://img.shields.io/badge/WebGL-0D1117?style=for-the-badge&logo=webgl)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0D1117?style=for-the-badge&logo=mediapipe)
@@ -59,7 +59,7 @@
 
 ---
 
-##  GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -76,7 +76,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -98,7 +98,7 @@
 
 ### AI Job Scout — Autonomous Career Agent
 
-*Built the agent that should've found me a job 😅*
+*Built the agent that should've found me a job*
 
 </div>
 
@@ -168,7 +168,7 @@
 
 ---
 
-## 🔒 Private Projects
+## Private Projects
 > These exist. The repos are private. 
 > The results are real.
 
@@ -181,7 +181,7 @@
 
 ---
 
-##  Contribution Activity
+## Contribution Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suprit-4618&theme=github-dark&hide_border=true)
 
@@ -189,7 +189,7 @@
 
 ---
 
-##  CONNECT
+## CONNECT
 
 <div align="center">
 
