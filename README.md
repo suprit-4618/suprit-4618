@@ -112,16 +112,16 @@
 
 <div align="center">
 
-### Semantic Search — Meaning-Aware Retrieval Engine
+### Semantic RAG Engine — Retrieval & Generation Pipeline
 
-*40% more accurate than keyword search*
+*40% more accurate than keyword search, powered by Llama 3*
 
 </div>
 
-- **HuggingFace** **all-MiniLM-L6-v2** → **384-d** embeddings
-- **95%** precision via **Cosine Similarity** retrieval
-- **<50ms** latency, fully **Dockerized** with **REST APIs**
-- **Endee** Vector DB for scalable data management
+- **Dual-Engine Architecture**: Simultaneous semantic retrieval and **RAG** synthesis
+- **HuggingFace** **all-MiniLM-L6-v2** → **384-d** embeddings in **ChromaDB**
+- **Groq API (Llama 3.1)** powering a strict, context-grounded generation pipeline
+- **<50ms** retrieval latency, fully **Dockerized** with **REST APIs**
 
 <br/>
 
@@ -164,19 +164,6 @@
 
 - **Airflow** + **dbt** + **PostgreSQL** + **Docker**
 - Weather **ETL** and Crypto **ETL** both fully containerized
-
-<br/>
-
----
-
-## Private Projects
-> These exist. The repos are private. 
-> The results are real.
-
-| Project | What it does | Numbers |
-|--------|-------------|---------|
-| AgriVerseAI | Full-stack AI farming platform | **95.4%** accuracy, **35ms** latency |
-| JANISA | Gesture-controlled 3D AI system | Real-time, web-based, **Gemini-powered** |
 
 <br/>
 
