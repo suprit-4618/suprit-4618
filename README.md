@@ -121,8 +121,16 @@
 - **Dual-Engine Architecture**: Simultaneous semantic retrieval and **RAG** synthesis
 - **HuggingFace** **all-MiniLM-L6-v2** → **384-d** embeddings in **ChromaDB**
 - **Groq API (Llama 3.1)** powering a strict, context-grounded generation pipeline
-- **<50ms** retrieval latency, fully **Dockerized** with **REST APIs**
+- **3-Tier Book-Style Results Layout**: Elegant presentation of Semantic Source, RAG, and General AI results
+- **Retractable Sidebar**: Advanced UI with independent accordion project metadata
 
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/suprit-4618/Semantic-and-Dual-Engine-Rag/main/assets/search-results.png" alt="Search Results" width="600"/>
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/suprit-4618/Semantic-and-Dual-Engine-Rag/main/assets/sidebar-expanded.png" alt="Sidebar Expanded" width="600"/>
+</div>
 <br/>
 
 <div align="center">
