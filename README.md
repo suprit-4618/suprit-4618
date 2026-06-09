@@ -77,7 +77,7 @@
 
 ---
 
-## Featured Projects
+## Projects
 
 <div align="center">
 
@@ -124,14 +124,7 @@
 - **3-Tier Book-Style Results Layout**: Elegant presentation of Semantic Source, RAG, and General AI results
 - **Retractable Sidebar**: Advanced UI with independent accordion project metadata
 
-<br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/suprit-4618/Semantic-and-Dual-Engine-Rag/main/assets/search-results.png" alt="Search Results" width="600"/>
-  <br/><br/>
-  <img src="https://raw.githubusercontent.com/suprit-4618/Semantic-and-Dual-Engine-Rag/main/assets/sidebar-expanded.png" alt="Sidebar Expanded" width="600"/>
-</div>
-<br/>
 
 <div align="center">
 
