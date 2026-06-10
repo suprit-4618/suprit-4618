@@ -174,7 +174,11 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suprit-4618&theme=github-dark&hide_border=true)
 
-![Snake animation](https://raw.githubusercontent.com/suprit-4618/suprit-4618/output/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suprit-4618/suprit-4618/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suprit-4618/suprit-4618/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/suprit-4618/suprit-4618/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
