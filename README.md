@@ -64,13 +64,13 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=suprit-4618&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=suprit-4618&theme=tokyonight&hide_border=true&show_icons=true" />
 
 <br/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suprit-4618&theme=tokyonight&layout=compact&hide_border=true" />
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=suprit-4618&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://streak-stats.demolab.com/?user=suprit-4618&theme=tokyonight&hide_border=true" />
 
 </div>
 
