@@ -64,14 +64,13 @@
 
 <div align="center">
 
-![Total Stars](https://img.shields.io/github/stars/suprit-4618?style=for-the-badge&logo=github&label=TOTAL%20STARS&color=7aa2f7&labelColor=1a1b26)
-![Followers](https://img.shields.io/github/followers/suprit-4618?style=for-the-badge&logo=github&label=FOLLOWERS&color=7aa2f7&labelColor=1a1b26)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=suprit-4618&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true" />
 
 <br/>
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suprit-4618&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suprit-4618&theme=tokyonight&layout=compact&hide_border=true" />
 
-<img height="180" src="https://streak-stats.demolab.com?user=suprit-4618&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=suprit-4618&theme=tokyonight&hide_border=true" />
 
 </div>
 
